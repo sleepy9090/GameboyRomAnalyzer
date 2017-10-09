@@ -1,0 +1,8 @@
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\bin\Release\GameboyRomAnalyzer.exe
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\bin\Release\GameboyRomAnalyzer.pdb
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\obj\x86\Release\GameboyRomAnalyzer.AboutBox1.resources
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\obj\x86\Release\GameboyRomAnalyzer.Form1.resources
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\obj\x86\Release\GameboyRomAnalyzer.Properties.Resources.resources
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\obj\x86\Release\GameboyRomAnalyzer.csproj.GenerateResource.Cache
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\obj\x86\Release\GameboyRomAnalyzer.exe
+C:\Users\scrawford\documents\visual studio 2010\Projects\GameboyRomAnalyzer\GameboyRomAnalyzer\obj\x86\Release\GameboyRomAnalyzer.pdb
